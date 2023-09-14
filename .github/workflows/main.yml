@@ -1,4 +1,4 @@
-name: CI Github HOME
+name: CI Github Admin
 on:
   #监听push操作
   push:
